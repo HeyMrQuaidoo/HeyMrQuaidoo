@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-    <img align="left" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" style="/* max-width: 100%; */width: 157px;border: 6px solid #ccc;border-radius: 50%;padding: 10px;"/>
+    <img align="left" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" style="width: 157px;border: 6px solid #ccc;border-radius: 50%;padding: 10px;"/>
     Hi there, I am <a href="https://www.linkedin.com/in/danielquaidoo/" target="_blank" rel="noreferrer">Daniel Quaidoo</a>
 </h3>
 
