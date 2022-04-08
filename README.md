@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=TypeScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=DD0031)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&color=39457E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&color=339933)
-#![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&color=336791)
-#![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=SQLite&color=003B57)
+<!--![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=SQLite&color=003B57)  -->
 
