@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-    <img align="left" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" style="width: 157px; border: 6px solid #ccc; border-radius: 50%; padding: 10px;"/>
+    <img align="left" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 50%;"/>
     Hi there, I am <a href="https://www.linkedin.com/in/danielquaidoo/" target="_blank" rel="noreferrer">Daniel Quaidoo</a>
 </h3>
 
@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=DD0031)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
-
 
 </br>
 
@@ -64,4 +64,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
 
+## 📈 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrQuaidoo&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/HeyMrQuaidoo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaCardinal&layout=compact)](https://github.com/HeyMrQuaidoo)
+
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/) -->
