@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 ## 💼 Technical Skills
 
+<!--![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=SQLite&color=003B57) 
+ -->
+
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&color=39457E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -51,12 +55,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)
-<!--![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=SQLite&color=003B57)  -->
 
 
 </br>
+
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
+
+
