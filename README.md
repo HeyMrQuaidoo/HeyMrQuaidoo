@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
+    <img align="left" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" style="50% !important"/>
     Hi there, I am <a href="https://www.linkedin.com/in/danielquaidoo/" target="_blank" rel="noreferrer">Daniel Quaidoo</a>
 </h3>
 
 <h2 align="center">
     I am a Fullstack Developer 💻
 </h2>
+
+### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/danielquaidoo/"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/linkedin.png" alt="Daniel Quaidoo | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/ghavenor"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/twitter.png" alt="Ghavenor | Twitter" width="21px"/></a>
