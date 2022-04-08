@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-    <img align="left" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 50%;"/>
+    <img align="left" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" />
     Hi there, I am <a href="https://www.linkedin.com/in/danielquaidoo/" target="_blank" rel="noreferrer">Daniel Quaidoo</a>
 </h3>
 
@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
-
+<!--
 ## 📈 GitHub Stats
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrQuaidoo&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/HeyMrQuaidoo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrQuaidoo&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/HeyMrQuaidoo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaCardinal&layout=compact)](https://github.com/HeyMrQuaidoo)
 
