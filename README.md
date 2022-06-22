@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  -->
 
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&color=39457E)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=007ec6)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible)
-![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=CircleCI)
-![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=Cypress)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&color=326CE5)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&color=EE0000)
+![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=CircleCI&color=343434)
+![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=Cypress&color=17202C)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&color=232F32)
 <!--
 ## 📈 GitHub Stats
 
