@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&color=F05032)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&color=F05032)
-![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=CircleCI&color=F05032)
-![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=Cypress&color=F05032)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&color=F05032)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible)
+![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=CircleCI)
+![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=Cypress)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS)
 <!--
 ## 📈 GitHub Stats
 
