@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&color=326CE5)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&color=EE0000)
 ![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=CircleCI&color=343434)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&color=EE0000)
 ![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=Cypress&color=17202C)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&color=232F32)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&color=FF9900)
 <!--
 ## 📈 GitHub Stats
 
